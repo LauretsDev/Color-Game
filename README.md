@@ -1,2 +1,2 @@
 # Color-Game
-Javascript and CSS project
+Color Game is an RGB color guessing game. Made with HTML, Javascript, and CSS.
